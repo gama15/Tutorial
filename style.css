@@ -1,8 +1,13 @@
 p{
 serif;
-color:purple;
+color: Black;
 background-color: yellow;
 border;5px solid: white;
 padding:40px;
 width:600px;
+}
+@import
+url( "https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet");
+p{
+  font-family: 'Fjalla One', sans-serif;
 }
